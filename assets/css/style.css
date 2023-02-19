@@ -45,3 +45,6 @@ body{
 .box:hover {
   background-size: 100%;
 }
+.text-justify{
+  text-align: justify;
+}
