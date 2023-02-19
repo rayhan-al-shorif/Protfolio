@@ -13,7 +13,7 @@ typewriter.typeString("I'm Rayhan Al Shorif")
     .typeString('Working In Laravel Framework')
     .pauseFor(2500)
     .deleteAll()
-    .typeString('Working In Laravel Framework')
+    .typeString('Working In React Js')
     .pauseFor(2500)
     .start();
 
